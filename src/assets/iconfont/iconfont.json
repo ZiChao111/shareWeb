@@ -1,0 +1,37 @@
+{
+  "id": "2341361",
+  "name": "tree_hole",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9620923",
+      "name": "Dislike, unlike, thumb down",
+      "font_class": "Dislikeunlikethumbdown",
+      "unicode": "f98b",
+      "unicode_decimal": 63883
+    },
+    {
+      "icon_id": "14034420",
+      "name": "Dislike, unlike, thumb down",
+      "font_class": "Dislikeunlikethumbdown-copy",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "5125936",
+      "name": "like",
+      "font_class": "home_ico_like-",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "12952545",
+      "name": "like",
+      "font_class": "home_ico_like-1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

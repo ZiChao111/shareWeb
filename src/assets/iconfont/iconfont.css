@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 2341361 */
+  src: url('//at.alicdn.com/t/font_2341361_h4gkejmwv6h.eot');
+  src: url('//at.alicdn.com/t/font_2341361_h4gkejmwv6h.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_2341361_h4gkejmwv6h.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_2341361_h4gkejmwv6h.woff') format('woff'),
+  url('//at.alicdn.com/t/font_2341361_h4gkejmwv6h.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_2341361_h4gkejmwv6h.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*未点踩时*/
+.iconDislikeunlikethumbdown:before {
+  content: "\f98b";
+}
+/*点踩时*/
+.iconDislikeunlikethumbdown-copy:before {
+  content: "\e606";
+}
+/*未点赞*/
+.iconhome_ico_like-:before {
+  content: "\e622";
+}
+/*点赞*/
+.iconhome_ico_like-1:before {
+  content: "\e600";
+}
+

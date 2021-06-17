@@ -1,0 +1,90 @@
+import Vue from 'vue'
+import {
+    Button,
+    Container,
+    Header,
+    Main,
+    Footer,
+    Tabs,
+    TabPane,
+    Message,
+    Input,
+    Form,
+    FormItem,
+    Tag,
+    Row,
+    Col,
+    Avatar,
+    Card,
+    Icon,
+    Dialog,
+    Select,
+    Option,
+    Cascader,
+    Autocomplete,
+    Upload,
+    Pagination,
+    Menu,
+    MenuItem,
+    Aside,
+    Backtop,
+    Radio,
+    RadioGroup,
+    Divider,
+    Checkbox,
+    CheckboxGroup,
+    Image,
+    BreadcrumbItem,
+    Breadcrumb,
+    InputNumber,
+    Scrollbar,
+    Loading,
+    Popover,
+    TableColumn,
+    MessageBox,
+    Tooltip,
+    Table
+} from 'element-ui'
+Vue.use(Scrollbar)
+Vue.use(Loading)
+Vue.use(Table)
+Vue.use(Popover)
+Vue.use(TableColumn)
+Vue.use(Tooltip)
+Vue.use(Button)
+Vue.use(Container)
+Vue.use(Header)
+Vue.use(Main)
+Vue.use(Footer)
+Vue.use(Tabs)
+Vue.use(TabPane)
+Vue.use(Input)
+Vue.use(Form)
+Vue.use(FormItem)
+Vue.use(Tag)
+Vue.use(Row)
+Vue.use(Col)
+Vue.use(Avatar)
+Vue.use(Card)
+Vue.use(Icon)
+Vue.use(Dialog)
+Vue.use(Select)
+Vue.use(Option)
+Vue.use(Cascader)
+Vue.use(Autocomplete)
+Vue.use(Upload)
+Vue.use(Pagination)
+Vue.use(Menu)
+Vue.use(MenuItem)
+Vue.use(Aside)
+Vue.use(Backtop)
+Vue.use(Radio)
+Vue.use(RadioGroup)
+Vue.use(Divider)
+Vue.use(Checkbox)
+Vue.use(CheckboxGroup)
+Vue.use(Image)
+Vue.use(BreadcrumbItem)
+Vue.use(Breadcrumb)
+Vue.use(InputNumber)
+Vue.prototype.$message = Message
